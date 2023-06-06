@@ -1,6 +1,4 @@
 
 #!/bin/bash
-
-echo "ALXSchool is cool!"
-echo "ALX School"
+echo "The school is open!"
 
